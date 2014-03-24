@@ -4,7 +4,8 @@ title:            Rahul Pandey
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://rahulpandeyc.github.io
+#url:              http://rahulpandeyc.github.io
+url:              http://rahulpandey.net
 
 # Owner/author information
 owner:
