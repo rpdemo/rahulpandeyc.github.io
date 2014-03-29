@@ -15,7 +15,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter: rahulpandeyc       
   facebook: rahulpandey.net       
-  github:         
+  github:   rahulpandeyc      
   stackexchange:  
   linkedin:       
   instagram: rahulpandeyc     
@@ -25,7 +25,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-45005588-3
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -44,7 +44,7 @@ links:
     #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Calcutta
 future:      true
 pygments:    true
 markdown:    kramdown
