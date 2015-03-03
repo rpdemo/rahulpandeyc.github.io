@@ -4,8 +4,8 @@ description:      "Startups, programming, design, and anything in between, and e
 disqus_shortname: rahulpandeynet
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://rahulpandeyc.github.io
-#url:              http://rahulpandey.net
+#url:              http://rahulpandeyc.github.io
+url:              http://rahulpandey.net
 
 # Owner/author information
 owner:
