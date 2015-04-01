@@ -4,8 +4,8 @@ description:      "Startups, programming, design, and anything in between, and e
 disqus_shortname: rahulpandeynet
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-#url:              http://rahulpandeyc.github.io
-url:              http://rahulpandey.net
+url:              http://rahulpandeyc.github.io
+#url:              http://rahulpandey.net
 
 # Owner/author information
 owner:
@@ -13,22 +13,22 @@ owner:
   avatar:         bio-photo.png
   email:          rp91@live.in
   # Social networking links used in footer. Update and remove as you like.
-  twitter: rahulpandeyc       
-  facebook: rahulpandey.net       
-  github:   rahulpandeyc      
-  stackexchange:  
-  linkedin:       
-  instagram: rahulpandeyc     
-  flickr:         
-  tumblr:         
+  twitter: rahulpandeyc
+  facebook: rahulpandey.net
+  github:   rahulpandeyc
+  stackexchange:
+  linkedin:
+  instagram: rahulpandeyc
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-45005588-3
-google_verify:      
+#google_analytics:   UA-45005588-3
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -60,7 +60,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
